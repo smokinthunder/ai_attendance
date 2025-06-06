@@ -37,8 +37,8 @@ A Python-based attendance system that uses computer vision to automatically mark
 2. **Clone or Download the Project**:
    ```cmd
    # If using git
-   git clone <repository-url>
-   cd face-attendance-system
+   git clone https://github.com/smokinthunder/ai_attendance.git
+   cd ai_attendance
    
    # Or download and extract the ZIP file
    ```
@@ -80,8 +80,8 @@ A Python-based attendance system that uses computer vision to automatically mark
 
 2. **Clone or Download the Project**:
    ```bash
-   git clone <repository-url>
-   cd face-attendance-system
+   git clone https://github.com/smokinthunder/ai_attendance.git
+   cd ai_attendance
    ```
 
 3. **Create Virtual Environment** (Recommended):
@@ -169,8 +169,8 @@ export_attendance("2024-01-15")
 ## File Structure
 
 ```
-face-attendance-system/
-├── attendance_system.py      # Main application file
+ai_attendance/
+├── main.py      # Main application file
 ├── requirements.txt          # Python dependencies
 ├── README.md                # This file
 ├── attendance.csv           # Generated attendance records
