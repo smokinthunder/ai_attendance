@@ -115,7 +115,7 @@ A Python-based attendance system that uses computer vision to automatically mark
 
 2. **Run the Application**:
    ```bash
-   python attendance_system.py
+   python main.py
    ```
 
 3. **Follow the Menu**:
@@ -129,7 +129,7 @@ A Python-based attendance system that uses computer vision to automatically mark
 
 Run the script and select option 1:
 ```bash
-python attendance_system.py
+python main.py
 ```
 
 **Adding Face from Camera** (Recommended):
