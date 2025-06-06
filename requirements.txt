@@ -1,0 +1,37 @@
+# Face Recognition Attendance System Requirements
+# Compatible with Python 3.7 - 3.11
+
+# Core Computer Vision Library
+opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78
+
+# Numerical Computing
+numpy==1.24.3
+
+# Data Analysis and CSV handling
+pandas==2.0.3
+
+# Date and Time utilities (built-in, but listing for completeness)
+# datetime - built-in module
+
+# File I/O and system operations (built-in modules)
+# os - built-in module
+# csv - built-in module
+# pickle - built-in module
+
+# Optional: For enhanced data analysis and reporting
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Optional: For GUI enhancements (if needed later)
+# tkinter - usually comes with Python installation
+
+# Development and Testing (optional)
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# For better image processing (optional)
+Pillow==10.0.0
+
+# System information (optional, for debugging)
+psutil==5.9.5
